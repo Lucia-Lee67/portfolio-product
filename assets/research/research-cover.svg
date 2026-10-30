@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="580" viewBox="0 0 640 580">
+<rect x="18" y="18" width="604" height="544" rx="8" fill="#edf1fa"/>
+<path d="M18 110H622" stroke="#141c4f" stroke-width="2"/>
+<g fill="#141c4f" font-family="Microsoft YaHei, sans-serif">
+<text x="90" y="75" font-size="18" letter-spacing="3">02 / USER RESEARCH</text>
+<text x="90" y="170" font-size="34" font-weight="700">适老化按摩产品</text>
+<text x="90" y="220" font-size="34" font-weight="700">用户研究</text>
+<text x="90" y="270" font-size="18">理解使用者，也理解购买者。</text>
+<text x="90" y="381" font-family="Arial, sans-serif" font-size="94" font-weight="700">96</text>
+<text x="225" y="355" font-size="21">份有效问卷</text>
+<text x="225" y="389" font-size="17">受访者以老人家属为主</text>
+<path d="M48 432H590" stroke="#a6b2ce"/>
+<text x="90" y="480" font-size="18">问卷修订 / 用户访谈 / 需求分析</text>
+<text x="90" y="520" font-size="16" fill="#525d7c">用户研究 · 聚焦使用体验与需求</text>
+</g>
+<circle cx="565" cy="68" r="16" fill="#f0c24e"/>
+</svg>
+
